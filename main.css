@@ -1,0 +1,44 @@
+
+.left {
+  background-color: aqua;
+  float: left;
+}
+
+.right {
+  background-color: brown;
+  float: right;
+}
+
+.middle {
+  display: flex;
+  justify-content: center;
+}
+
+.header2 {
+  font-weight: 600;
+  line-height: 20px;
+  font-size: 17px;
+  color: #999;
+  text-align: center;
+}
+
+.facebook {
+  color: white;
+  background-color: blue;
+  text-align: center;
+}
+
+.or {
+  color: #999;
+  text-align: center;
+}
+
+.boxes input{
+  margin: 2px;
+  width: 250px;
+  height: 20px;
+}
+
+.boxes {
+  text-align: center;
+}
