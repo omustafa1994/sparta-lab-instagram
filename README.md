@@ -1,7 +1,7 @@
 # Instagram Login Page
 
 ### Description
-This homework was assigned to verify my understanding of HTML and CSS, where I had been tasked to re-create the Instagram login page only using HTML/CSS. Starter code was given with images attached that of which was required for the login page.
+This homework was assigned to verify my understanding of HTML and CSS, where I had been tasked to re-create the Instagram login page only using HTML/CSS. Starter code was given with images attached that was required for the login page.
 
 ### Languages used
 * HTML
