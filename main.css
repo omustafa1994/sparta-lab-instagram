@@ -1,0 +1,88 @@
+body {
+  background-color: white !important;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.box {
+  float: left;
+}
+
+.box3 {
+  float: right;
+}
+
+.button {
+  background-color: rgb(121, 121, 245);
+  padding: 10px;
+  width: 350px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.right-column {
+  background: white;
+  border: 1px solid #d4d4d4;
+  width: 350px;
+  margin: 10px;
+  padding: 40px;
+}
+
+.instagram-logo {
+  margin: 15px auto;
+}
+
+.info {
+  font-weight: 600px;
+  line-height: 20px;
+  font-size: 17px;
+  color: grey;
+  text-align: center;
+}
+
+.or {
+  font-size: 13px !important;
+  color: grey;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+
+.or::before{
+  content: '';
+  background: grey;
+  display: block;
+  height: 2px;
+  width: 110px;
+  position: relative;
+  top: 11px;
+}
+.or::after{
+  content: '';
+  background: grey;
+  display: block;
+  height: 2px;
+  width: 110px;
+  position: relative;
+  top: 11px;
+}
+
+.boxes input{
+  margin: 2px;
+  width: 250px;
+  height: 20px;
+}
+
+.terms {
+  color: grey;
+  text-align: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: center
+}
